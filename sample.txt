@@ -1,0 +1,2 @@
+This is a test file for Huffman coding.
+It contains some repeated characters.
