@@ -38,6 +38,5 @@ File Structure
 - `huffman_compression.py`: Main Python script
 - `compressed.txt`: Output file containing the binary-encoded message
 
-## 🧪 Sample Usage
 
 
